@@ -1,7 +1,4 @@
-# Alpaca Contract
+# Custom Alpaca Contract
 
-**Leveraged yield farming on Binance Smart Chain**
+**Leveraged yield farming on Matic Network**
 
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
